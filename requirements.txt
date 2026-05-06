@@ -1,0 +1,9 @@
+langchain
+langchain-community
+crewai
+python-dotenv
+crewai[tools]
+gradio
+agentops
+tavily-python
+youtube-search
